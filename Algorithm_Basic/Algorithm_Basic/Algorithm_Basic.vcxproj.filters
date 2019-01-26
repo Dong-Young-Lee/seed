@@ -42,5 +42,20 @@
     <ClCompile Include="A+B_8.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="그대로 출력하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="그대로 출력하기 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자의 합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="열 개씩 끊어 출력하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
