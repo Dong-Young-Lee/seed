@@ -1,0 +1,2 @@
+# seed
+BOJ study repository
