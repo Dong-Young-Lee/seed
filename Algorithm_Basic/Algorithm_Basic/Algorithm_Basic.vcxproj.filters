@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Brute Force">
+      <UniqueIdentifier>{199d38b4-b254-48d0-abbc-fc230ad5fb4d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hello_World.cpp">
@@ -192,10 +195,55 @@
     <ClCompile Include="나머지.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="일곱 난쟁이.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="날짜 계산.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="테트로미노.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="다음 순열.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="이전 순열.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="모든 순열.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="차이를 최대로.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="외판원 순회2.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="로또.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자 끼워넣기.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="1, 2, 3 더하기_rec.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="암호 만들기.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="로또_rec.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="부분집합의 합.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="퇴사.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="1st_input.txt">
-      <Filter>소스 파일</Filter>
+      <Filter>Brute Force</Filter>
     </Text>
   </ItemGroup>
 </Project>
