@@ -16,6 +16,12 @@
     <Filter Include="Brute Force">
       <UniqueIdentifier>{199d38b4-b254-48d0-abbc-fc230ad5fb4d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Graph and BFS">
+      <UniqueIdentifier>{5fc67181-d12f-4cdf-bdf6-363fee2b7e2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Input">
+      <UniqueIdentifier>{be07325b-89e6-450f-96c5-12d8f929fafa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hello_World.cpp">
@@ -240,10 +246,52 @@
     <ClCompile Include="퇴사.cpp">
       <Filter>Brute Force</Filter>
     </ClCompile>
+    <ClCompile Include="ABCDE.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS와 BFS.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="연결 요소의 개수.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="이분 그래프.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="단지번호붙이기.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="섬의 개수.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="미로 탐색.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="숨바꼭질.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="이모티콘.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="숨바꼭질 3.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="벽 부수고 이동하기.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="탈출.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="1st_input.txt">
-      <Filter>Brute Force</Filter>
+    <Text Include="input.txt">
+      <Filter>Input</Filter>
     </Text>
   </ItemGroup>
 </Project>
