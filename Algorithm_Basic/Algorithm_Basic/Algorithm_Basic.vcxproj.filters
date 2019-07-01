@@ -19,8 +19,71 @@
     <Filter Include="Graph and BFS">
       <UniqueIdentifier>{5fc67181-d12f-4cdf-bdf6-363fee2b7e2c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Input">
-      <UniqueIdentifier>{be07325b-89e6-450f-96c5-12d8f929fafa}</UniqueIdentifier>
+    <Filter Include="Bit mask">
+      <UniqueIdentifier>{16d5350a-4ba7-4574-88e6-5404cc678b06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Recursion">
+      <UniqueIdentifier>{0791af4a-95c8-4345-bde1-c81a020dacfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Brute Force 2">
+      <UniqueIdentifier>{8b61ea6f-2c20-4f18-9f4b-f651af28dff6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="N과 M">
+      <UniqueIdentifier>{9e65de9d-f942-4185-8cdf-42675a7a8662}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Backtracking">
+      <UniqueIdentifier>{95078693-cd53-4706-bac5-12aad8da6a50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="시뮬레이션">
+      <UniqueIdentifier>{73c73c8a-3e47-494d-87b9-c2cf75d49408}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dynamic Programming">
+      <UniqueIdentifier>{f0ddf8eb-ee8a-42bb-a202-0f0c56cb0424}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BFS">
+      <UniqueIdentifier>{352932a0-c597-48dc-b745-d859a4505c9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SW Expert Academy">
+      <UniqueIdentifier>{6fa4e8b7-66b8-4e3d-b330-c98248a9dc60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="복습">
+      <UniqueIdentifier>{aa3366e5-2dae-4e67-bbc2-1817bef9b510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ_19_03">
+      <UniqueIdentifier>{7a375f46-0629-476a-bf4e-4cf5b18c5fb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SAMSUNG">
+      <UniqueIdentifier>{85283c86-3e54-47d9-97ca-5f11f7b76a46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DFS">
+      <UniqueIdentifier>{ffd407b9-ec32-45a9-b304-4a2ea947fa3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="모의고사">
+      <UniqueIdentifier>{6cc414de-a124-4f1c-ab1e-3b8ddda2647f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Brute Force_re">
+      <UniqueIdentifier>{a6627d73-32f3-4fa0-82ab-bd9781d697bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BKD_BFS and DFS">
+      <UniqueIdentifier>{2e134b49-b1f4-4888-bf71-4a3023bea511}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="D4">
+      <UniqueIdentifier>{0bb758ba-9377-4b55-b76e-c0c34ef28075}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="기출 &amp; 모의">
+      <UniqueIdentifier>{dbaab095-f5d6-4076-9e20-c28108a57051}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Backtracking_RE">
+      <UniqueIdentifier>{f828de68-fa15-4c3d-8fa7-ba7745f5e7dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ_AJOU">
+      <UniqueIdentifier>{a10ac207-0e03-4658-ac14-127679f6052e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LINE">
+      <UniqueIdentifier>{75bbe6e7-48e5-4ed0-b881-a2e6eac04e6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ_문제2">
+      <UniqueIdentifier>{7d9a4428-3fa9-41d8-a2fe-c71ba037223a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -288,10 +351,580 @@
     <ClCompile Include="탈출.cpp">
       <Filter>Graph and BFS</Filter>
     </ClCompile>
+    <ClCompile Include="리모컨.cpp">
+      <Filter>Brute Force 2</Filter>
+    </ClCompile>
+    <ClCompile Include="카잉 달력.cpp">
+      <Filter>Brute Force 2</Filter>
+    </ClCompile>
+    <ClCompile Include="수 이어 쓰기 1.cpp">
+      <Filter>Brute Force 2</Filter>
+    </ClCompile>
+    <ClCompile Include="부등호.cpp">
+      <Filter>Brute Force 2</Filter>
+    </ClCompile>
+    <ClCompile Include="집합.cpp">
+      <Filter>Bit mask</Filter>
+    </ClCompile>
+    <ClCompile Include="단어 수학.cpp">
+      <Filter>Brute Force 2</Filter>
+    </ClCompile>
+    <ClCompile Include="스타트와 링크.cpp">
+      <Filter>Brute Force 2</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_test.cpp">
+      <Filter>Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="곱셈.cpp">
+      <Filter>Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="하노이 탑 이동 순서.cpp">
+      <Filter>Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="Z.cpp">
+      <Filter>Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기 11.cpp">
+      <Filter>Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기 10.cpp">
+      <Filter>Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="쿼드트리.cpp">
+      <Filter>Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="N과 M 1.cpp">
+      <Filter>N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="N과 M 2.cpp">
+      <Filter>N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="N과 M 3.cpp">
+      <Filter>N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="N과 M 4.cpp">
+      <Filter>N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="스타트와 링크_Backtracking.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="스타트와 링크_Bt_BJ.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS.cpp">
+      <Filter>Graph and BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="N과 M 5.cpp">
+      <Filter>N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="뱀.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="1로 만들기_BKD.cpp">
+      <Filter>Dynamic Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="지능형 기차.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="막대기.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="프린터 큐.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="로봇 청소기.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="토너먼트.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="주사위 굴리기.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="회전하는 큐.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="공.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="톱니바퀴.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="톱니바퀴 2.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="체스판 다시 칠하기cpp.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="경사로.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="방학 숙제.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="카드1.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="드래곤 커브.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="주사위 게임.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="성곽.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="키로거.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="카드2.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="Puyo Puyo.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="트럭 주차.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="소용돌이 예쁘게 출력하기.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="벽 부수고 이동하기_re.cpp">
+      <Filter>복습</Filter>
+    </ClCompile>
+    <ClCompile Include="벽 부수고 이동하기 2.cpp">
+      <Filter>복습</Filter>
+    </ClCompile>
+    <ClCompile Include="양념 반 후라이드 반.cpp">
+      <Filter>BOJ_19_03</Filter>
+    </ClCompile>
+    <ClCompile Include="봄버맨.cpp">
+      <Filter>BOJ_19_03</Filter>
+    </ClCompile>
+    <ClCompile Include="벽돌 깨기.cpp">
+      <Filter>SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="요리사.cpp">
+      <Filter>SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="View.cpp">
+      <Filter>SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="N-Queen.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="로또_re.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="암호 만들기_re.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="비숍.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="구슬 탈출 2.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="부분집합의 합_re.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="미네랄.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="구슬 탈출 4.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="iSharp.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="경로 찾기.cpp">
+      <Filter>DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="N과 M 6.cpp">
+      <Filter>N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="LCD Test.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="Maaaaaaaaaaze.cpp">
+      <Filter>모의고사</Filter>
+    </ClCompile>
+    <ClCompile Include="계란으로 계란치기.cpp">
+      <Filter>모의고사</Filter>
+    </ClCompile>
+    <ClCompile Include="인싸들의 가위바위보.cpp">
+      <Filter>모의고사</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 정사각형.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="유레카 이론.cpp">
+      <Filter>Brute Force</Filter>
+    </ClCompile>
+    <ClCompile Include="N과 M 7.cpp">
+      <Filter>N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="한수_re.cpp">
+      <Filter>Brute Force_re</Filter>
+    </ClCompile>
+    <ClCompile Include="미생물 격리.cpp">
+      <Filter>SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="원자 소멸 시뮬레이션.cpp">
+      <Filter>SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="N과 M 8.cpp">
+      <Filter>N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="감시.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="Baaaaaaaaaaduk2 (Easy).cpp">
+      <Filter>모의고사</Filter>
+    </ClCompile>
+    <ClCompile Include="연구소.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="나무 재테크.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="N과 M 9.cpp">
+      <Filter>N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="큐빙.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="인구 이동.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="아기 상어.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="시험 감독.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="2048 (Easy).cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="치킨 배달.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="사다리 조작.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS와 BFS_RE.cpp">
+      <Filter>DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="숨바꼭질_re.cpp">
+      <Filter>DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.cpp">
+      <Filter>LINE</Filter>
+    </ClCompile>
+    <ClCompile Include="P2.cpp">
+      <Filter>LINE</Filter>
+    </ClCompile>
+    <ClCompile Include="P3.cpp">
+      <Filter>LINE</Filter>
+    </ClCompile>
+    <ClCompile Include="P4.cpp">
+      <Filter>LINE</Filter>
+    </ClCompile>
+    <ClCompile Include="P5.cpp">
+      <Filter>LINE</Filter>
+    </ClCompile>
+    <ClCompile Include="파이프 옮기기 1.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="그림_RE.cpp">
+      <Filter>BKD_BFS and DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="미로 탐색_RE.cpp">
+      <Filter>BKD_BFS and DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="숨바꼭질_RE_RE.cpp">
+      <Filter>BKD_BFS and DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="유기농 배추_RE.cpp">
+      <Filter>BKD_BFS and DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토2.cpp">
+      <Filter>BKD_BFS and DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="텀 프로젝트.cpp">
+      <Filter>BKD_BFS and DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="등산로 조성.cpp">
+      <Filter>SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="격자판의 숫자 이어 붙이기.cpp">
+      <Filter>SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 만들기.cpp">
+      <Filter>SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="혁진이의 프로그램 검증.cpp">
+      <Filter>SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="계산기3.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="계산기2.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="계산기1.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="시험 감독_RE.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="보물상자 비밀번호.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="Ladder1.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="혁진이의 프로그램 검증_RE.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="가능한 시험 점수.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="보급로.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="디저트 카페.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="사랑의 카운슬러.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="미로1.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="화섭이의 미생물 배양.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="벌꿀채취.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="모든 순열_RE.cpp">
+      <Filter>Backtracking_RE</Filter>
+    </ClCompile>
+    <ClCompile Include="부분수열의 합.cpp">
+      <Filter>Backtracking_RE</Filter>
+    </ClCompile>
+    <ClCompile Include="암호 만들기_RE_RE.cpp">
+      <Filter>Backtracking_RE</Filter>
+    </ClCompile>
+    <ClCompile Include="알파벳.cpp">
+      <Filter>Backtracking_RE</Filter>
+    </ClCompile>
+    <ClCompile Include="드래곤 커브_RE.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="치킨 배달_RE.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="숨바꼭질_AJOU.cpp">
+      <Filter>BOJ_AJOU</Filter>
+    </ClCompile>
+    <ClCompile Include="숨바꼭질 2_AJOU.cpp">
+      <Filter>BOJ_AJOU</Filter>
+    </ClCompile>
+    <ClCompile Include="파이프 옮기기 1_AJOU.cpp">
+      <Filter>BOJ_AJOU</Filter>
+    </ClCompile>
+    <ClCompile Include="파이프 옮기기 2_AJOU.cpp">
+      <Filter>BOJ_AJOU</Filter>
+    </ClCompile>
+    <ClCompile Include="트럭.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="숨바꼭질 3_AJOU.cpp">
+      <Filter>BOJ_AJOU</Filter>
+    </ClCompile>
+    <ClCompile Include="숨바꼭질 4_AJOU.cpp">
+      <Filter>BOJ_AJOU</Filter>
+    </ClCompile>
+    <ClCompile Include="피아의 아틀리에 ~신비한 대회의 연금술사~.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="안전 영역.cpp">
+      <Filter>DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="로봇 청소기_RE.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="부등호_RE.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="스도쿠.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="보호 필름.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="성수의 프로그래밍 강좌 시청.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="격자판의 숫자 이어 붙이기_RE.cpp">
+      <Filter>D4</Filter>
+    </ClCompile>
+    <ClCompile Include="한윤정이 이탈리아에 가서 아이스크림을 사먹는데.cpp">
+      <Filter>Brute Force 2</Filter>
+    </ClCompile>
+    <ClCompile Include="벽 부수고 이동하기_RE_RE.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="말이 되고픈 원숭이.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="움직이는 미로 탈출.cpp">
+      <Filter>BOJ_문제2</Filter>
+    </ClCompile>
+    <ClCompile Include="맞춰봐.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="Permutation and Combination.cpp">
+      <Filter>N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="점심 식사시간.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="늑대와 양.cpp">
+      <Filter>BOJ_문제2</Filter>
+    </ClCompile>
+    <ClCompile Include="데스 나이트.cpp">
+      <Filter>BOJ_문제2</Filter>
+    </ClCompile>
+    <ClCompile Include="핀볼 게임.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="무선 충전.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="탈주범 검거.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="수영장.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="줄기세포배양.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="홈 방범 서비스.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="보물섬.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="벽 부수고 이동하기 2_RE.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="빙산.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="다리 만들기.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="불.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="차량 정비소.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="프로세서 연결하기.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="로봇.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="백조의 호수.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 큰 금민수.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="수열의 변화.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="확장 게임.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="로마 숫자 만들기.cpp">
+      <Filter>BOJ_문제2</Filter>
+    </ClCompile>
+    <ClCompile Include="캐슬 디펜스.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="색종이 붙이기.cpp">
+      <Filter>SAMSUNG</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호 추가하기.cpp">
+      <Filter>BOJ_문제2</Filter>
+    </ClCompile>
+    <ClCompile Include="로봇 시뮬레이션.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="활주로 건설.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="특이한 자석.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="등산로 조성_RE.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="알파벳_RE.cpp">
+      <Filter>Backtracking_RE</Filter>
+    </ClCompile>
+    <ClCompile Include="소문난 칠공주.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="단어 수학_RE.cpp">
+      <Filter>Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="요리사_RE.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="프로세서 연결하기_RE.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="벽돌 깨기_RE.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="디저트 카페_RE.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="준규와 사과.cpp">
+      <Filter>DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="배달.cpp">
+      <Filter>DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 돌리기 1.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="색종이 붙이기_RE.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
+    <ClCompile Include="그림 비교.cpp">
+      <Filter>시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="프로세서 연결하기_RE_RE.cpp">
+      <Filter>기출 &amp; 모의</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
-      <Filter>Input</Filter>
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="output.txt">
+      <Filter>리소스 파일</Filter>
     </Text>
   </ItemGroup>
 </Project>
